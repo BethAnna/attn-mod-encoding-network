@@ -1,9 +1,9 @@
 # attn-mod-encoding-network
 Trains and simulates an attention-modulated and biologically inspired neural network that encodes and retains afferent stimuli within its dynamics. The network's dynamical trajectory is determined by proximal gradient method (PGM), resulting in real-time, functionally-optimal evolution. Here "functionally optimal" is quantified via an objective function containing encoding, decoding, and retention measures, embedding cognitive mnemonic principles. By default, the network connectivity matrices are trained via Adam optimization over the objective function and a Hurwitz constraint. For more information, the reader is referred to the author's paper [1]. 
-
+.
 **Further documentation and re-upload of codebase in progress to be more open-source friendly and accessible.**
-
-
+.
+.
 SCRIPT FILES: 
 PGM_main.py - The main script to run, initiating the base simulation.
 PGM_model.py - Contains the network class definition as well as auxiliary functions.
