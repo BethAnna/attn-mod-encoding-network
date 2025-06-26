@@ -1,7 +1,7 @@
 # attn-mod-encoding-network
 Neural network trained for the attention-modulated encoding and retention of stimuli, whose functionally-optimal trajactory is determined by proximal gradient method (PGM). 
 
-**Further documentation and re-upload in progress for a more accessible codebase.**
+**Further documentation and re-upload of codebase in progress to be more open-source friendly and accessible.**
 
 SCRIPT FILES: 
 PGM_main.py - The main script to run, initiating the base simulation.
