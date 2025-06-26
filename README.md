@@ -4,7 +4,7 @@ Trains and simulates an attention-modulated and biologically inspired neural net
 **Further documentation and re-upload of codebase in progress to be more open-source friendly and accessible.** \
 
 
-# SCRIPT FILES:
+# Script Files:
 `PGM_main.py` - The main script to run, initiating the base simulation.\
 `PGM_model.py` - Contains the network class definition as well as auxiliary functions.\
 `PGM_trainAndTest.py` - Algorithm and auxiliary functions for training the network connections as well as time-step simulation via proximal gradient.\
